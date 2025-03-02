@@ -10,3 +10,77 @@ no longer empty
         └── current -> 54
 
 8 directories, 1 file
+    1  ls
+    2  ls Videos
+    3  ld
+    4  l
+    5  wsl exit
+    6  ls
+    7  pw
+    8  pwd
+    9  mkdir homework
+   10  ls
+   11  cd ..
+   12  cd /
+   13  ls
+   14  ls home
+   15  ls home kirill
+   16  cd home
+   17  ls
+   18  cd kirill
+   19  ls
+   20  .
+   21  cd .
+   22  mkdir ~/homework/homework1/
+   23  cd homework 1
+   24  cd homework1
+   25  ls
+   26  cd homework
+   27  ls
+   28  cd homework1
+   29  touch my_empty_file.txt
+   30  ls
+   31  echo "some text" > my_empty_file.txt
+   32  echo "no longer empty" > my_empty_file.txt
+   33  mv <my_empty_file.txt> <my_homework_file.txt>
+   34  mv my_empty_file.txt  my_homework_file.txt
+   35  cd .
+   36  cd ..
+   37  cp my_homework_file.txt
+   38  cd homework1
+   39  cp my_homework_file.txt 
+   40  cp my_homework_file.txt my_homework_file.txt
+   41  cp my_homework_file.txt ../
+   42  cd ..
+   43  ls
+   44  rm ~/homework/my_homework_file.txt
+   45  ls
+   46  tree ~ >> ~/homework/homework1/my_homework_file.txt
+   47  sudo snap install tree
+   48  tree ~ >> ~/homework/homework1/my_homework_file.txt
+   49  tree
+   50  cd /
+   51  tree
+   52  ls
+   53  cd homework/
+   54  tree
+   55  cd ~
+   56  git clone https://github.com/Kiry921/my_homework.git
+   57  cp ~/homework/homework1/my_homework_file.txt ~/my_homework/
+   58  cd ~/my_homework
+   59  git add my_homework_file.txt 
+   60  git commit -m "Добавлен файл с дз"
+   61  git config --global user.email "kiry.klimov.231@gmail.com"
+   62  git config --global user.name "Kirill"
+   63  git commit -m "Добавлен файл с дз"
+   64  git push origin main
+   65  ls
+   66  cd ..
+   67  ls
+   68  tree
+   69  cd my_homework
+   70  git push -u origin main
+   71  git push origin master
+   72  git push origin main
+   73  cd ~/homework/homework1
+   74  history >> my_homework_file.txt 
