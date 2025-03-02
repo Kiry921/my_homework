@@ -1,0 +1,12 @@
+no longer empty
+/home/kirill
+├── homework
+│   └── homework1
+│       └── my_homework_file.txt
+└── snap
+    └── tree
+        ├── 54
+        ├── common
+        └── current -> 54
+
+8 directories, 1 file
